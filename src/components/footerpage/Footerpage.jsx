@@ -9,7 +9,7 @@ function Footerpage() {
     <div className='footer-page'>
      <div className='logname'>
           <img src={logostarbelly} className="loog" height="60em" width='200em' alt="" />
-          <p>Starbelly Restaurant, owned by <br></br> STARBELLY FOODS LIMITED <br></br>(RC 905999, CL/S&I/400/14), <br></br>offers perfect atmospher  for all <br></br>life’s occasions when it comes to customer's satifaction .</p>
+          <p>Starbelly Restaurant, owned by <br></br> STARBELLY FOODS LIMITED <br></br>(RC 905999, DAMMY, <br></br>offers perfect atmospher  for all <br></br>life’s occasions when it comes to customer's satifaction .</p>
 
      </div>
      <div className='contact-info'>
